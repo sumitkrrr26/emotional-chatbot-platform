@@ -1,0 +1,11 @@
+# Backend - Node.js/Express Server
+
+All backend server code goes here.
+
+## Structure
+- `routes/` - API endpoint definitions
+- `controllers/` - Business logic
+- `models/` - Database models
+- `middleware/` - Express middleware
+- `config/` - Configuration files
+- `personas/` - Persona configurations
